@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-satır 1
-satır 2
-satır 3
-=======
-satır 1
->>>>>>> parent of fcd7049... gg
+ï»¿satÄ±r 1
+satÄ±r 2
+satÄ±r 3
