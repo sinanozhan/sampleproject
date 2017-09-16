@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 satýr 1
 satýr 2
 satýr 3
+=======
+satýr 1
+>>>>>>> parent of fcd7049... gg
